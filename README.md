@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kodedlua
-- 👀 I’m interested in lua fivem development
-- 🌱 I’m currently learning c# fivem developement
 - 📫 How to reach me? Text me on discord (koded#0070)!
 
 <!---
