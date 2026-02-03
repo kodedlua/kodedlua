@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Jakub Wojtczak
-- 📫 How to reach me? Text me on discord (koded#0070)!
+- 📫 How to reach me? Send me an email me@koded.pl!
